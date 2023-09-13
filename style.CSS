@@ -43,9 +43,10 @@ body * {
   /* height: 900px; */
   /*margin-right: auto;
   margin-left: auto; */
-  width: 360px;
-  margin: 26px auto 0px;
-  padding: 10 24px;
+  width: 100%;
+  max-width: 388px;
+  margin: 56px auto 0px;
+  padding: 0 24px;
 }
 
 #profile {
